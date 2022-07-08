@@ -34,9 +34,6 @@
 - Criação de taskLists (deletar/editar/adicionar)
 - Página para o apoiador
 
-<br> <br>
-
-- `yarn`
 
 <br>
 
